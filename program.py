@@ -105,7 +105,7 @@ if path:
 else:
     print("No path found!")
 
-# Plotting the grid with obstacles, start, end, and path
+# Plotting the grid with obstacles, start, end, and path,
 plt.figure(figsize=(6, 6))
 
 # Plot obstacles in red
